@@ -24,3 +24,4 @@ class School
     end
   end
 end
+@school.new("Test School")
